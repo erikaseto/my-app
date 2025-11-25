@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.4f966224.css",
+    "main.js": "/my-app/static/js/main.57ee3f41.js",
+    "static/media/spirograph-pattern-drawing-backgrounds-textures-a17aa5-1024.webp": "/my-app/static/media/spirograph-pattern-drawing-backgrounds-textures-a17aa5-1024.f970aa9d080692ed7425.webp",
+    "index.html": "/my-app/index.html",
+    "main.4f966224.css.map": "/my-app/static/css/main.4f966224.css.map",
+    "main.57ee3f41.js.map": "/my-app/static/js/main.57ee3f41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f966224.css",
+    "static/js/main.57ee3f41.js"
+  ]
+}
